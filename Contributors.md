@@ -20,6 +20,7 @@
 - Mozibur Rahman
 - Rhyu Sarmiento
 - Jona Stevenson
+- JaBria Bishop
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
